@@ -21,7 +21,7 @@
     <img src="https://circleci.com/gh/MeteorDevelopment/meteor-client/tree/master.svg?style=shield" alt="CircleCI"/>
 </div>
 
-## Usage
+## Usagee
 
 ### Building
 - Clone this repository
